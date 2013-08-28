@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kniphelle</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="toss">Toss</string>
+    <string name="new_round">New Round</string>
+    <string name="separate">Separate</string>
+    <string name="toss_counter">Toss Counter: %1$d</string>
+
+</resources>
